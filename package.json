@@ -32,7 +32,7 @@
   "homepage": "https://github.com/mindsphere/mindsphere.github.io#readme",
   "devDependencies": {
     "@commitlint/cli": "^8.1.0",
-    "@commitlint/config-conventional": "^8.0.0",
+    "@commitlint/config-conventional": "^8.1.0",
     "commitlint": "^8.1.0",
     "conventional-changelog-cli": "^2.0.21",
     "eclint": "^2.8.1",
